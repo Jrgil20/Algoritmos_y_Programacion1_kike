@@ -38,7 +38,7 @@ retos/
 python retos/semana_1.py   # o el número de semana que desees
 ```
 
-Requiere **Python 3.10+** (usa `match` no, pero sí type hints con `|` en semana 2).
+Requiere **Python 3.10+** (no usa `match`, pero sí type hints con `|` en semana 2).
 
 ---
 

@@ -16,7 +16,7 @@ RESTRICCIONES:
     extendido: c² vs a² + b² (donde c es el lado mayor).
 
 PISTA TÉCNICA:
-  Ordena los lados con sorted() para identificar el hipotenusa.
+  Ordena los lados con sorted() para identificar la hipotenusa.
   Para ángulos: c² == a²+b² → rectángulo,
                 c² >  a²+b² → obtusángulo,
                 c² <  a²+b² → acutángulo.
